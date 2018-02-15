@@ -21,6 +21,8 @@ int main() {
 	cout << "Input the radius of circle please \n"; cin>> r ;
 	area=pi*pow(r,2);
 	cout << "Area equals " << area << endl; // prints !!!Hello World!!!
+
+// return is last statement in function 
 	return 0;
 }
 
