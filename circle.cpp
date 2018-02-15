@@ -13,7 +13,7 @@
 
 using namespace std;
 
-
+// main program is a function 
 
 int main() {
 	double r , area;
