@@ -9,7 +9,7 @@
 #include <iostream>
 #define pi 3.1428571429
 #include <math.h>
-
+// # is preprocessor task so its done before program excution
 
 using namespace std;
 
