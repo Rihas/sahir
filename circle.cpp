@@ -19,6 +19,7 @@ int main() {
 	double r , area;
 
 	cout << "Input the radius of circle please \n"; cin>> r ;
+// we need to use pow() function in c++
 	area=pi*pow(r,2);
 	cout << "Area equals " << area << endl; // prints !!!Hello World!!!
 
